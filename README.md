@@ -48,9 +48,9 @@ the attack is used on 3 local ips:
  
 - 192.168.10.16 - Vunerable to CVE-2012-1823
 
-- 192.168.10.18 - Vunerable to CVE-2011-2523
-
 - 192.168.10.18 - Vunerable to SSH Brute Force
+
+- 192.168.10.20 - Vunerable to CVE-2011-2523
 
 ![Botnet Attack Example](gifs/3B4C1644-0690-4EAF-AA87-D2BB0C56800E.GIF)
 
